@@ -4,6 +4,7 @@
 
 body {
   background: linear-gradient(to right, blue,white,red);
+  background-image: linear-gradient(to right, blue 33.33%, white 33.33%, white 66.66%, red 66.66%);
   font-family: 'Open Sans', sans-serif;
 }
 
