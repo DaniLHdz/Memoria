@@ -3,7 +3,7 @@
 @import url(https://fonts.googleapis.com/css?family=Open+Sans:400,700);
 
 body {
-  background: #456;
+  background: linear-gradient(to right, blue,white,red);
   font-family: 'Open Sans', sans-serif;
 }
 
@@ -11,13 +11,14 @@ body {
   width: 400px;
   margin: 16px auto;
   font-size: 16px;
+  
 }
 
 /* Reset top and bottom margins from certain elements */
 .login-header,
 .login p {
   margin-top: 0;
-  margin-bottom: 0;
+  margin-bottom: 0;  
 }
 
 /* The triangle form is achieved by a CSS hack */
@@ -25,22 +26,24 @@ body {
   width: 0;
   margin-right: auto;
   margin-left: auto;
-  border: 12px solid transparent;
-  border-bottom-color: #28d;
+  border: 10px solid transparent;
+  border-bottom-color: black;  
+  transform: rotate(180deg);
 }
 
 .login-header {
-  background: #28d;
+  background: white;
   padding: 20px;
   font-size: 1.4em;
   font-weight: normal;
   text-align: center;
   text-transform: uppercase;
-  color: #fff;
+  color: black;
+  border: 1px solid black;
 }
 
 .login-container {
-  background: #ebebeb;
+  background: transparent; /*color del contenedor del muñequito*/
   padding: 12px;
 }
 
@@ -75,7 +78,7 @@ body {
 }
 
 .login input[type="button"] {
-  background: #28d;
+  background: blue;
   border-color: transparent;
   color: #fff;
   cursor: pointer;
