@@ -9,10 +9,10 @@ body {
 }
 
 .login {
-  width: 400px;
+  width: 33%;
   margin: 16px auto;
   font-size: 16px;
-  
+  border: 1px solid;
 }
 
 /* Reset top and bottom margins from certain elements */
