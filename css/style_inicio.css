@@ -7,8 +7,8 @@ html, body {
 }
 
 body {
-  /*background: #28d;*/
-  background: red;
+  background: #28d;
+ /* background: blue;*/
   min-height: 100%;
   font-family: "Arial", sans-serif;
 }
