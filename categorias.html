@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html lang="en" >
+<head>
+  <meta charset="UTF-8">
+  <title>Bienvenida</title>
+  <link rel="stylesheet" href="css/style.css">
+  <script src='http://cdnjs.cloudflare.com/ajax/libs/jquery/2.1.3/jquery.min.js'></script>
+  <script type="text/javascript">
+  function jugarAnimales(){  
+  window.location.href = 'inicio.html';
+  }
+  function jugarColores(){  
+  window.location.href = 'inicioColores.html';
+  }
+  function jugarComida(){  
+  window.location.href = 'inicioComida.html';
+  }
+  function jugarCuerpo(){  
+  window.location.href = 'inicioCuerpo.html';
+  }
+  function instrucciones(){
+  window.location.href = 'instrucciones.html';  
+  }
+  function inicio(){  
+  window.location.href = 'index.html';
+  }  
+  </script>	
+</head>
+
+<body>  
+  <div class="login">
+      
+  <form class="login-container">                                
+    <h2 class="login-header">Elige una categoría</h2>
+    <p><input type="button" value="Animales" onclick= "jugarAnimales();"></p>  
+    <p><input type="button" value="Colores" onclick = "jugarColores();"></p>  
+    <p><input type="button" value="Comida" onclick = "jugarComida();"></p>      
+    <p><input type="button" value="Partes del cuerpo" onclick = "jugarCuerpo();"></p>      
+    <p><input type="button" value="Regresar" onclick = "inicio();"></p>  
+    <!-- <p><input type="button" value="Siguiente" onclick="instrucciones()"></p> -->
+    
+  </form>
+</div>    
+</body>
+</html>
