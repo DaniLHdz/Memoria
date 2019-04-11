@@ -130,53 +130,53 @@
 
 	var cards = [
 		{
-			name: "oso",
-			img: "resources/imgs/ayudante01.jpg",
+			name: "cabeza",
+			img: "resources/imgs/cabeza.jpg",
 			id: 1,
 		},
 		{
-			name: "gato",
-			img: "resources/imgs/pambazo.jpg",
+			name: "mano",
+			img: "resources/imgs/mano.jpg",
 			id: 2
 		},
 		{
-			name: "perro",
-			img: "resources/imgs/gordita.jpg",
+			name: "pie",
+			img: "resources/imgs/pie.jpg",
 			id: 3
 		},
 		{
-			name: "elefante",
-			img: "resources/imgs/pizza.jpg",
+			name: "cara",
+			img: "resources/imgs/cara.jpg",
 			id: 4
 		},
 		{
-			name: "caballo",
-			img: "resources/imgs/redcola.jpg",
+			name: "ojo",
+			img: "resources/imgs/ojo.jpg",
 			id: 5
 		},
 		{
-			name: "cerdo",
-			img: "resources/imgs/frijoles.jpg",
+			name: "boca",
+			img: "resources/imgs/boca.jpg",
 			id: 6
 		},
 		{
-			name: "rana",
-			img: "resources/imgs/carnitas.jpg",
+			name: "pecho",
+			img: "resources/imgs/pecho.jpg",
 			id: 7
 		},
 		{
-			name: "delfin",
-			img: "resources/imgs/pollito.jpg",
+			name: "codo",
+			img: "resources/imgs/codo.jpg",
 			id: 8
 		},
 		{
-			name: "cocodrilo",
-			img: "resources/imgs/aguacate.jpg",
+			name: "brazo",
+			img: "resources/imgs/brazo.jpg",
 			id: 9
 		},
 		{
-			name: "leon",
-			img: "resources/imgs/pan.jpg",
+			name: "hombro",
+			img: "resources/imgs/hombro.jpg",
 			id: 10
 		},
 	];
