@@ -166,7 +166,7 @@
 		},
 		{
 			name: "c-azul",
-			img: "resources/imgs/pencil-azulfuerte.jpg",
+			img: "resources/imgs/pencil-azulfuerte.png",
 			id: 8
 		},
 		{
