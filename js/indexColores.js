@@ -60,9 +60,9 @@
 		
 		info: function(id){
 			var path = "resources/sounds/";
-			var sounds = ["","blanco.mp3","azul.mp3","negro.mp3",
-			"morado.mp3","verde.mp3","rojo.mp3","rosa.mp3",
-			"naranja.mp3","cafe.mp3","amarillo.mp3","gris.mp3"
+			var sounds = ["","gris.mp3","blanco.mp3","negro.mp3", "cafe.mp3",
+			"verde.mp3","naranja.mp3","amarillo.mp3","azul.mp3",
+			"rosa.mp3","rojo.mp3"
 			];
 			//alert(id);
 			var poc = path+sounds[id];
@@ -161,7 +161,7 @@
 		},
 		{
 			name: "c-amarillo",
-			img: "resources/imgs/pencil.amarillo.jpg",
+			img: "resources/imgs/pencil-amarillo.jpg",
 			id: 7
 		},
 		{
@@ -174,15 +174,10 @@
 			img: "resources/imgs/pencil-rosa.jpg",
 			id: 9
 		},
-		{
-			name: "c-morado",
-			img: "resources/imgs/pencil-morado.jpg",
-			id: 10
-		},
 				{
 			name: "c-rojo",
 			img: "resources/imgs/pencil-rojo.jpg",
-			id: 11
+			id: 10
 		},
 	];
     
