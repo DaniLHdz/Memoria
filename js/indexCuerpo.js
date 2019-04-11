@@ -59,10 +59,10 @@
 		},
 		
 		info: function(id){
-			var path = "resources/sounds/comida/";
-			var sounds = ["","tacos.mp3","pambazo.mp3","gordita.mp3",
-			"pizza.mp3","refresco.mp3","frijoles.mp3","carnitas.mp3",
-			"pollo_rostizado.mp3","aguacate.mp3","pan.mp3"
+			var path = "resources/sounds/";
+			var sounds = ["","oso.mp3","gato.mp3","perro.mp3",
+			"elefante.mp3","caballo.mp3","cerdo.mp3","rana.mp3",
+			"delfin.mp3","cocodrilo.mp3","leon.mp3"
 			];
 			//alert(id);
 			var poc = path+sounds[id];
@@ -131,7 +131,7 @@
 	var cards = [
 		{
 			name: "oso",
-			img: "resources/imgs/taquitos.jpg",
+			img: "resources/imgs/ayudante01.jpg",
 			id: 1,
 		},
 		{
