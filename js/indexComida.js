@@ -60,9 +60,9 @@
 		
 		info: function(id){
 			var path = "resources/sounds/comida/";
-			var sounds = ["","carotte.mp3","raisin.mp3","gordita.mp3",
-			"pizza.mp3","refresco.mp3","frijoles.mp3","carnitas.mp3",
-			"pollo_rostizado.mp3","aguacate.mp3","pan.mp3"
+			var sounds = ["","banane.mp3","raisin.mp3","peche.mp3",
+			"pasteque.mp3","poire.mp3","orange.mp3","mangue.mp3",
+			"cerise.mp3","fraise.mp3","noix_de_coco.mp3"
 			];
 			//alert(id);
 			var poc = path+sounds[id];
@@ -130,8 +130,8 @@
 
 	var cards = [
 		{
-			name: "Zanahoria",
-			img: "resources/imgs/Zanahoria.jpg",
+			name: "Platano",
+			img: "resources/imgs/Plátano.jpg",
 			id: 1,
 		},
 		{
@@ -140,43 +140,43 @@
 			id: 2
 		},
 		{
-			name: "perro",
-			img: "resources/imgs/gordita.jpg",
+			name: "Durazno",
+			img: "resources/imgs/Durazno.jpg",
 			id: 3
 		},
 		{
-			name: "elefante",
-			img: "resources/imgs/pizza.jpg",
+			name: "Sandia",
+			img: "resources/imgs/Sandía.jpg",
 			id: 4
 		},
 		{
-			name: "caballo",
-			img: "resources/imgs/redcola.jpg",
+			name: "Pera",
+			img: "resources/imgs/Pera.jpg",
 			id: 5
 		},
 		{
-			name: "cerdo",
-			img: "resources/imgs/frijoles.jpg",
+			name: "Naranja",
+			img: "resources/imgs/Naranja.jpg",
 			id: 6
 		},
 		{
-			name: "rana",
-			img: "resources/imgs/carnitas.jpg",
+			name: "Mango",
+			img: "resources/imgs/Mango.jpg",
 			id: 7
 		},
 		{
-			name: "delfin",
-			img: "resources/imgs/pollito.jpg",
+			name: "Cerezas",
+			img: "resources/imgs/Cerezas.jpg",
 			id: 8
 		},
 		{
-			name: "cocodrilo",
-			img: "resources/imgs/aguacate.jpg",
+			name: "Fresa",
+			img: "resources/imgs/Fresa.jpg",
 			id: 9
 		},
 		{
-			name: "leon",
-			img: "resources/imgs/pan.jpg",
+			name: "Coco",
+			img: "resources/imgs/Coco.jpg",
 			id: 10
 		},
 	];
