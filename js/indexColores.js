@@ -131,52 +131,52 @@
 	var cards = [
 		{
 			name: "c-gris",
-			img: "resources/imgs/pencil-gris.jpg",
+			img: "resources/imgs/gris.png",
 			id: 1,
 		},
 		{
 			name: "c-blanco",
-			img: "resources/imgs/pencil-blanco.jpg",
+			img: "resources/imgs/blanc.png",
 			id: 2
 		},
 		{
 			name: "c-negro",
-			img: "resources/imgs/pencil-negro.jpg",
+			img: "resources/imgs/noir.png",
 			id: 3
 		},
 		{
 			name: "c-cafe",
-			img: "resources/imgs/pencil-cafe.jpg",
+			img: "resources/imgs/marron.png",
 			id: 4
 		},
 		{
 			name: "c-verde",
-			img: "resources/imgs/pencil-verde.jpg",
+			img: "resources/imgs/vert.png",
 			id: 5
 		},
 		{
 			name: "c-naranja",
-			img: "resources/imgs/pencil-naranja.jpg",
+			img: "resources/imgs/orange.png",
 			id: 6
 		},
 		{
 			name: "c-amarillo",
-			img: "resources/imgs/pencil-amarillo.jpg",
+			img: "resources/imgs/jaune.png",
 			id: 7
 		},
 		{
 			name: "c-azul",
-			img: "resources/imgs/pencil-azulfuerte.png",
+			img: "resources/imgs/bleu.png",
 			id: 8
 		},
 		{
 			name: "c-rosa",
-			img: "resources/imgs/pencil-rosa.jpg",
+			img: "resources/imgs/rose.png",
 			id: 9
 		},
 				{
 			name: "c-rojo",
-			img: "resources/imgs/pencil-rojo.jpg",
+			img: "resources/imgs/rouge.png",
 			id: 10
 		},
 	];
