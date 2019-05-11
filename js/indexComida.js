@@ -60,7 +60,7 @@
 		
 		info: function(id){
 			var path = "resources/sounds/comida/";
-			var sounds = ["","tacos.mp3","pambazo.mp3","gordita.mp3",
+			var sounds = ["","carotte.mp3","raisin.mp3","gordita.mp3",
 			"pizza.mp3","refresco.mp3","frijoles.mp3","carnitas.mp3",
 			"pollo_rostizado.mp3","aguacate.mp3","pan.mp3"
 			];
@@ -130,13 +130,13 @@
 
 	var cards = [
 		{
-			name: "oso",
-			img: "resources/imgs/taquitos.jpg",
+			name: "Zanahoria",
+			img: "resources/imgs/Zanahoria.jpg",
 			id: 1,
 		},
 		{
-			name: "gato",
-			img: "resources/imgs/pambazo.jpg",
+			name: "Uvas",
+			img: "resources/imgs/Uvas.jpg",
 			id: 2
 		},
 		{
