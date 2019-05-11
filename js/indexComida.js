@@ -60,7 +60,7 @@
 		
 		info: function(id){
 			var path = "resources/sounds/comida/";
-			var sounds = ["","banane.mp3","raisin.mp3","peche.mp3",
+			var sounds = ["","banane.mp3","raisin.mp3","pomme.mp3",
 			"pasteque.mp3","poire.mp3","orange.mp3","mangue.mp3",
 			"cerise.mp3","fraise.mp3","noix_de_coco.mp3"
 			];
@@ -140,8 +140,8 @@
 			id: 2
 		},
 		{
-			name: "Durazno",
-			img: "resources/imgs/Durazno.jpg",
+			name: "Manzana",
+			img: "resources/imgs/Manzana.jpg",
 			id: 3
 		},
 		{
